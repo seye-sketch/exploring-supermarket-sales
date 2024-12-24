@@ -4,4 +4,3 @@ Key Features:
 Exploratory data analysis (EDA) of supermarket sales trends.
 Visualizations to uncover insights into customer behavior, product performance, and sales distribution.
 Tools used: Pandas for data manipulation, Seaborn and Matplotlib for visualizations.
-Tags: #data-analysis #visualization #python #supermarket-sales #pandas #seaborn #matplotlib
